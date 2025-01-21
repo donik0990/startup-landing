@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-[hsl(var(--background))] text-[hsl(var(--foreground))]">
+  <div>
     <slot />
   </div>
 </template>
