@@ -71,14 +71,15 @@
   }
 }
 
-html{
+html {
   box-sizing: border-box;
 }
-body{
+body {
   background-color: #fff;
+  font-family: "DM Sans", sans-serif;
 }
-.container{
+.container {
   max-width: 1170px;
   margin: 0 auto;
-  padding: ;
+  padding: 10px;
 }

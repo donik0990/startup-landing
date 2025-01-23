@@ -13,8 +13,7 @@ export default defineNuxtConfig({
   fonts: {
     //https://fonts.nuxt.com/get-started/configuration
     families: [
-      { name: "Inter", provider: "google" },
-      { name: "Kantumruy Pro", provider: "google" },
+      { name: "Dm Sans", provider: "google" },
     ],
   },
   tailwindcss: {

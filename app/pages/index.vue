@@ -1,5 +1,7 @@
 <template>
   <div>
-    <Appheader/>
+    <HomeFeatures />
+    <HomeDetailsSection />
+    <HomeIntrovideoSection />
   </div>
 </template>
