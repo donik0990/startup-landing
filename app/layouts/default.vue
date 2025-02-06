@@ -3,7 +3,7 @@
 <template>
   <div>
     <LayoutHeader />
-
     <slot />
+    <LayoutFoorter/>
   </div>
 </template>

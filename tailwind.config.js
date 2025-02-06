@@ -9,6 +9,9 @@ export default {
   ],
   theme: {
     colors: {
+      colorbgbtn:"#F7F8FB",
+      colorborder:"#F3F4F5",
+      colorWedbg:"#FFF7F5",
       colorbg:"#F9FAFC",
       colorWhite: "#fff",
       colorIcons: "#28DCB2",
@@ -21,6 +24,9 @@ export default {
       color80:"#28D1DC",
       color90:"#FA578E",
       color150:"#FF753A",
+      colorpriicon:"#CED7E1",
+      colorborderFooter:"#D9E0E7"
+      
     },
     extend: {},
   },

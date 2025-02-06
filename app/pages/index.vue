@@ -1,7 +1,11 @@
 <template>
-  <div>
+  <main>
     <HomeFeatures />
     <HomeDetailsSection />
     <HomeIntrovideoSection />
-  </div>
+    <HomeAllFeatures/>
+    <HomeWidgetsSection/>
+    <HomePricingSection/>
+    <HomeFaqSection/>
+  </main>
 </template>
